@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/99175600?s=200&v=4" width="320 " alt="BITLOGIX Logo" />
+
+<img src="./assets/logo.png" width="320 " alt="BITLOGIX Logo" />
+
 </div>
 
 ## 🏢 About BITLOGIX
@@ -42,8 +44,8 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
   </tr>
   <tr>
     <td>🧪 QA & Testing</td>
-    <td></td>
-    <td></td>
+    <td>🛠️ DevOps Engineering</td>
+    <td>📱 Mobile App Development</td>
   </tr>
 </table>
 
@@ -54,12 +56,13 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 ## 🌍 Our Clients
 
 > ### Direct Clients
-- **K&N Engineering** 
-- **Descon** 
-- **Dr. Kalebi Labs**
-- **MWCIA** 
-- **Chughtai Lab** 
-- **TEHA** · **BRC**
+- **[K&N Engineering](https://www.knfilters.com/)** 
+- **[Descon](https://www.descon.com/)** 
+- **[Dr. Kalebi Labs](https://dkl.co.ke/)**
+- **[MWCIA](https://www.mwcia.org/)** 
+- **[Chughtai Lab](https://chughtailab.com/)** 
+- **[TEHA](https://teha-wd.de/)** 
+- **[BRC](https://brc.org.uk/)**
 
 >### Enterprise Clients *(via Partner — Retail Insight)*
 - **Walmart** 
@@ -73,7 +76,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b>Nexus Pro — Laboratory Information Management System (LIMS)</b></summary>
-🔗 <a href="https://nexuspro.pk/" target="_blank">Nexus Pro</a>
+🔗 <a href="https://nexuspro.pk/">Nexus Pro</a>
 
 **Key Features:**
 - Patient registration
@@ -102,7 +105,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 <details>
 <summary><b> Heal Sync — Personal Health Tracking Application</b></summary>
 
-🔗 <a href="https://www.healsync.io/" target="_blank">Heal Sync</a>
+🔗 <a href="https://www.healsync.io/">Heal Sync</a>
 
 **Key Features:**
 - Vital sign monitoring, 
@@ -114,7 +117,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b>Lawcurgus — Legal Practice Management System</b></summary>
-🔗 <a href="https://www.lawcurgus.com/" target='_blank'>Lawcurgus</a>
+🔗 <a href="https://www.lawcurgus.com/">Lawcurgus</a>
 
 **Key Features:**
 - Billing, trust accounting
@@ -127,7 +130,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b> Greennounce — School Pickup Management System</b></summary>
-🔗 <a href="https://www.greennounce.com/" target="_blank">Greennounce</a>
+🔗 <a href="https://www.greennounce.com/">Greennounce</a>
 
 **Key Features:**
 - Real-time notifications
@@ -141,17 +144,17 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 ---
 
 ## 🗂️ Case Studies
+<details>
+<summary><b>ASDA <i>(via Partner — Retail Insight)</i></b></summary>
 
-### ASDA *(via Partner — Retail Insight)*
+**Problem Statement:** Before BITLOGIX, ASDA struggled with processing large-scale data for shelf availability, real-time price updates, and inventory movements.
 
-**Problem Statement:** Before collaborating with BITLOGIX, the client had to process the high data to maintain shelf availability. They faced challenges in processing real-time data for price updates and inventory movements
-
-**Solution:** We centralized all data interfaces using high-speed processing with **Apache Spark on Databricks**, enabling efficient real-time data handling. A rule-based engine automated stock replenishment and price change alerts to minimize manual tasks. Hosted on **Azure**, the system features an intuitive dashboard that delivers insights into inventory, sales, and shelf performance.
+**Solution:** We centralized data processing using Apache Spark on Databricks for real-time handling. A rule-based engine automated stock replenishment and price alerts, reducing manual effort. Hosted on Azure, the system provides a dashboard for inventory, sales, and shelf insights.
 
 **Outcomes**
-- Increased on-shelf availability leads to better customer experiences.
-- Successfully scaled to manage real-time data for over **1,000** stores and **130,000** items.
-- Automated processes save time and reduce manual errors in inventory and price management. 
+- Improved on-shelf availability, enhancing customer experience
+- Scaled to real-time processing across **1,000+** stores and **130,000** items
+- Reduced manual effort through automation in inventory and pricing
 
 <div align="center">
 
@@ -164,20 +167,21 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `.NET` `PostgreSQL` `Databricks` `Azure Monitor` `Redis Cache` `Dapr` `Azure Front Door` `Azure Container Service` `Microsoft Blob Storage`
 
----
+</details>
 
-### K&N Engineering
+<details>
+<summary><b>K&N Engineering</b></summary>
 
-**Problem Statement:** K&N Engineering faced a growing challenge in managing and scaling its digital operations. Their legacy systems required modernization to support a Direct-to-Consumer (D2C) e-commerce platform, streamline payment processes, ensure reliable API communication with vendors, and automate critical ERP functions. Manual invoice processing, fragmented system integrations, and limited scalability were affecting their operational efficiency and customer experience.
+**Problem Statement:** K&N Engineering faced scaling issues due to legacy systems, affecting its D2C platform, payment processing, vendor API integration, and manual ERP workflows like invoicing.
 
-**Solution:** BITLOGIX modernized K&N’s digital ecosystem by enhancing their Magento-based D2C platform, automating invoice processing with **RPA bots**, and upgrading API integrations to ensure secure, scalable communication. We streamlined ERP operations by integrating banking systems, optimizing logistics, and delivering continuous tech support. These combined efforts improved performance, reduced manual effort, and strengthened operational agility.
+**Solution:** BITLOGIX modernized their Magento-based D2C platform, automated invoice processing using RPA bots, and enhanced API integrations for secure communication. ERP processes were streamlined with banking integration, logistics optimization, and ongoing support, improving performance and automation.
 
 **Outcomes:**
-- 60% Reduction in Manual Invoice Handling Time. 
-- Faster Data Exchange across vendors and banking partners. 
-- Improved Website Performance and higher customer satisfaction. 
-- More Scalable IT Infrastructure with a secure API ecosystem. 
-- Real-Time Automation of business-critical operations within ERP. 
+- 60% reduction in manual invoice processing
+- Faster vendor and banking data exchange
+- Improved website performance and customer satisfaction
+- Scalable, secure API infrastructure
+- Real-time ERP process automation
 
 <div align="center">
 
@@ -190,20 +194,21 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `Magento` `PHP` `AWS` `.NET Core` `REST API` `XML` `Azure DevOps` `Power Automate` `Microsoft SQL Server` `Automation Anywhere`
 
----
+</details>
 
-### BRC
+<details>
+<summary><b>BRC</b></summary>
 
-**Problem Statement:** The client was collecting data manually from various resources, which consumed valuable time and caused inaccuracies in the data. Analysts manually adjust data formats to align with the Master sheets, causing inefficiencies and increasing the likelihood of errors. They faced difficulties in seamlessly integrating data from various sources into a cohesive and uniform format
+**Problem Statement:** BRC relied on manual data collection from multiple sources, causing delays, formatting issues, and frequent errors. Analysts manually aligned data with master sheets, making reporting inefficient and inconsistent.
 
-**Solution:** BITLOGIX has designed a comprehensive approach to gather data on a unified platform. ELT pipelines automated the data collection process, which reduced the processing time and chances of errors. We created semantic data models to efficiently generate meaningful reports. Additionally, to make analytical dashboards, we build an interactive **Power BI dashboard** to facilitate clients with analytical visuals, enabling faster data-driven decision making.
+**Solution:** BITLOGIX centralized all data on a unified platform using ELT pipelines to automate data collection and reduce errors. We built semantic data models for accurate reporting and developed interactive Power BI dashboards for real-time analytics and faster decision-making.
 
 **Outcomes:**
-- Increased from 8 to 11 platforms, enhancing scalability and data ecosystem efficiency. 
-- Achieved a 100% reduction in data errors through automated processes and standardized data handling. 
-- Centralized data from all sources into one platform for faster, smarter insights. 
-- Simplified data cleaning to cut manual work and boost strategic analysis. 
-- Built strong data models, a warehouse, and BI dashboards for data-driven decisions.
+- Expanded from 8 to 11 platforms, improving scalability
+- 100% reduction in data errors through automation
+- Centralized all data for faster insights
+- Reduced manual data cleaning effort
+- Enabled strong BI-driven decision-making
 
 <div align="center">
 
@@ -216,20 +221,22 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `Azure Logic Apps` `Azure Data Lake` `Microsoft SQL Server` `Azure Preview` `Power BI`
 
----
 
-### Dr. Kalebi Lab
+</details>
 
-**Problem Statement:** Dr. Kalebi Lab, a growing pathology and diagnostics startup in Kenya, needed a scalable and compliant digital ecosystem to modernize lab operations and enhance patient experience. Manual workflows, disconnected systems, limited insurer and government integrations, and poor real-time visibility across sample collection, payments, and reporting created operational and compliance challenges.
+<details>
+<summary><b>Dr. Kalebi Lab</b></summary>
 
-**Solution:** BITLOGIX deployed a **Nexus Pro-powered Laboratory Information Management** ecosystem with patient web and mobile apps for test ordering, quotations, home sampling, real-time rider tracking, and multi-gateway payments. It features intelligent rider assignment, ERP and insurer integrations (Microsoft Dynamics, Zoho, Odoo), compliance with Kenya Revenue Authority and Health System standards, plus automated workflows, advanced security, and real-time reporting from sample collection to report delivery.
+**Problem Statement:** Dr. Kalebi Lab, a pathology startup in Kenya, needed a scalable digital system to modernize lab operations. Manual workflows, disconnected systems, limited insurer/government integration, and lack of real-time visibility in sampling, payments, and reporting caused inefficiencies and compliance issues.
+
+**Solution:** BITLOGIX implemented a Nexus Pro-based LIMS with web and mobile apps for test ordering, quotations, home sampling, rider tracking, and payments. It included intelligent rider assignment, ERP and insurer integrations (Microsoft Dynamics, Zoho, Odoo), compliance with Kenya Revenue Authority standards, and real-time automated workflows and reporting.
 
 **Outcomes:**
-- End-to-end digital pathology and diagnostics workflow. 
-- Improved patient experience through mobile and portal-based services. 
-- Automated sample collection with intelligent rider assignment. 
-- Seamless integrations with insurers, ERP systems, and government platforms. 
-- Enhanced operational efficiency, compliance, and data security. 
+- Fully digitized end-to-end lab workflow
+- Improved patient experience via mobile and web portals
+- Automated sample collection with smart rider assignment
+- Seamless insurer, ERP, and government integrations
+- Enhanced efficiency, compliance, and data security 
 
 <div align="center">
 
@@ -242,20 +249,21 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `ASP.NET` `React JS` `Microsoft SQL Server` `Odoo` `Zoho CRM` `Microsoft Dynamics Finance & Operations`
 
----
+</details>
 
-### MWCIA — Michigan Workers' Compensation Insurers Association
+<details>
+<summary><b>MWCIA</b></summary>
 
-**Problem Statement:** Before partnering with BITLOGIX, MWCIA operated on outdated, fragmented systems for managing workers’ compensation policies, claims, and regulatory reporting. Manual processing caused delays, increased administrative effort, inconsistent user experiences, and high licensing costs, while the absence of a centralized, secure, and compliant platform limited scalability.
+**Problem Statement:** MWCIA relied on outdated, fragmented systems for managing workers’ compensation policies, claims, and reporting. Manual processes caused delays, high admin effort, inconsistent user experience, and limited scalability and compliance.
 
-**Solution:** BITLOGIX modernized MWCIA’s core insurance platforms, including assigned risk applications (OAR V2), policy management (MPS), reporting and compliance (MEGACCEDE), and USR data validation. The rebuilt systems provide centralized, secure, and compliant data management with real-time integrations, automated validations, and role-based access, improving efficiency, accuracy, and regulatory compliance.
+**Solution:** BITLOGIX modernized core insurance platforms including OAR V2, MPS, MEGACCEDE, and USR validation. The new system centralized data with secure, real-time integrations, automated validations, and role-based access for improved compliance, accuracy, and efficiency.
 
 **Outcomes:**
-- 90% reduction in manual policy submissions through digitized workflows. 
-- Centralized, secure, and compliant data management which improves accuracy and transparency. 
-- Streamlined reporting and validations supporting large carrier and agent ecosystems. 
-- High-performance platforms executing 800+ validations per transaction for reliable, compliant operations. 
-- Improved scalability enabling seamless onboarding of carriers, agents, and growing transaction volumes.
+- 90% reduction in manual policy submissions
+- Centralized and compliant data management
+- Faster reporting with automated validations
+- 800+ validations per transaction ensuring accuracy
+- Scalable system for carriers, agents, and high volumes
 
 <div align="center">
 
@@ -268,19 +276,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `.NET` `Microsoft SQL Server` `ASP.NET` `Oracle` `Kendo UI`
 
----
-
-## 👥 Our Team
-
-Behind our success is a team of skilled **engineers**, **designers**, **analysts**, and **domain experts** driving innovation and delivering excellence.
-
-<!-- 
-  GitHub automatically renders contributor graphs for public repos.
-  You may also add team member GitHub handles here, e.g.:
-  | Role | GitHub |
-  |:--|:--|
-  | Lead Architect | @username |
--->
+</details>
 
 ---
 
