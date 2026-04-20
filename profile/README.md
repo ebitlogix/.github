@@ -270,20 +270,6 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 ---
 
-## 👥 Our Team
-
-Behind our success is a team of skilled **engineers**, **designers**, **analysts**, and **domain experts** driving innovation and delivering excellence.
-
-<!-- 
-  GitHub automatically renders contributor graphs for public repos.
-  You may also add team member GitHub handles here, e.g.:
-  | Role | GitHub |
-  |:--|:--|
-  | Lead Architect | @username |
--->
-
----
-
 ## 📬 CONTACT DETAILS
 
 <div align="center">
