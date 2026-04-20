@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/99175600?s=200&v=4" width="320 " alt="BITLOGIX Logo" />
+</div>
 ## 🏢 About BITLOGIX
 
 At **BITLOGIX**, We build scalable, secure, and production-ready technology products across software, cloud, AI, and automation platforms. We have successfully worked with **Fortune 500 companies**, delivering high-impact digital solutions at scale. We bring over **20+ years of experience** delivering end-to-end, 360° software solutions from MVPs to enterprise systems, covering full-stack development, cloud engineering, AI/ML, RPA, BI/analytics, QA/testing, and UI/UX design.
@@ -53,7 +56,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b>Nexus Pro — Laboratory Information Management System (LIMS)</b></summary>
-🔗 <a href="https://nexuspro.pk/">Nexus Pro</a>
+🔗 <a href="https://nexuspro.pk/" target="_blank">Nexus Pro</a>
 
 **Key Features:**
 - Patient registration
@@ -82,7 +85,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 <details>
 <summary><b> Heal Sync — Personal Health Tracking Application</b></summary>
 
-🔗 <a href="https://www.healsync.io/">Heal Sync</a>
+🔗 <a href="https://www.healsync.io/" target="_blank">Heal Sync</a>
 
 **Key Features:**
 - Vital sign monitoring, 
@@ -94,7 +97,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b>Lawcurgus — Legal Practice Management System</b></summary>
-🔗 <a href="https://www.lawcurgus.com/">Lawcurgus</a>
+🔗 <a href="https://www.lawcurgus.com/" target='_blank'>Lawcurgus</a>
 
 **Key Features:**
 - Billing, trust accounting
@@ -107,7 +110,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <details>
 <summary><b> Greennounce — School Pickup Management System</b></summary>
-🔗 <a href="https://www.greennounce.com/">Greennounce</a>
+🔗 <a href="https://www.greennounce.com/" target="_blank">Greennounce</a>
 
 **Key Features:**
 - Real-time notifications
