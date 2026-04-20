@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/99175600?s=200&v=4" width="320 " alt="BITLOGIX Logo" />
 </div>
+
 ## 🏢 About BITLOGIX
 
 At **BITLOGIX**, We build scalable, secure, and production-ready technology products across software, cloud, AI, and automation platforms. We have successfully worked with **Fortune 500 companies**, delivering high-impact digital solutions at scale. We bring over **20+ years of experience** delivering end-to-end, 360° software solutions from MVPs to enterprise systems, covering full-stack development, cloud engineering, AI/ML, RPA, BI/analytics, QA/testing, and UI/UX design.
