@@ -59,10 +59,10 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 - **[K&N Engineering](https://www.knfilters.com/)** 
 - **[Descon](https://www.descon.com/)** 
 - **[Dr. Kalebi Labs](https://dkl.co.ke/)**
-- **[MWCIA](https://www.mwcia.org/)** 
+- **[Minnesota Workers' Compensation Insurers Association](https://www.mwcia.org/)** 
 - **[Chughtai Lab](https://chughtailab.com/)** 
 - **[TEHA](https://teha-wd.de/)** 
-- **[BRC](https://brc.org.uk/)**
+- **[British Retail Consortium](https://brc.org.uk/)**
 
 >### Enterprise Clients *(via Partner — Retail Insight)*
 - **Walmart** 
@@ -197,9 +197,9 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 </details>
 
 <details>
-<summary><b>BRC</b></summary>
+<summary><b>British Retail Consortium</b></summary>
 
-**Problem Statement:** BRC relied on manual data collection from multiple sources, causing delays, formatting issues, and frequent errors. Analysts manually aligned data with master sheets, making reporting inefficient and inconsistent.
+**Problem Statement:** British Retail Consortium relied on manual data collection from multiple sources, causing delays, formatting issues, and frequent errors. Analysts manually aligned data with master sheets, making reporting inefficient and inconsistent.
 
 **Solution:** BITLOGIX centralized all data on a unified platform using ELT pipelines to automate data collection and reduce errors. We built semantic data models for accurate reporting and developed interactive Power BI dashboards for real-time analytics and faster decision-making.
 
@@ -252,9 +252,9 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 </details>
 
 <details>
-<summary><b>MWCIA</b></summary>
+<summary><b>Minnesota Workers' Compensation Insurers Association</b></summary>
 
-**Problem Statement:** MWCIA relied on outdated, fragmented systems for managing workers’ compensation policies, claims, and reporting. Manual processes caused delays, high admin effort, inconsistent user experience, and limited scalability and compliance.
+**Problem Statement:** Minnesota Workers' Compensation Insurers Association relied on outdated, fragmented systems for managing workers’ compensation policies, claims, and reporting. Manual processes caused delays, high admin effort, inconsistent user experience, and limited scalability and compliance.
 
 **Solution:** BITLOGIX modernized core insurance platforms including OAR V2, MPS, MEGACCEDE, and USR validation. The new system centralized data with secure, real-time integrations, automated validations, and role-based access for improved compliance, accuracy, and efficiency.
 
@@ -296,7 +296,6 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 [LinkedIn](https://www.linkedin.com/company/bitogix) •
 [Instagram](https://www.instagram.com/ebitlogix) •
 [Facebook](https://www.facebook.com/ebitlogix) •
-[X](http://x.com/ebitlogix)
 
 </div>
 
