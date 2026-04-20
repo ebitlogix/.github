@@ -278,6 +278,8 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 </details>
 
+---
+
 ## 📬 CONTACT DETAILS
 
 <div align="center">
