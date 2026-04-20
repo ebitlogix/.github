@@ -23,12 +23,28 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 <div align="center">
 
-| | | |
-|:--|:--|:--|
-| 🚀 MVP Development | 🤖 AI / ML & RPA | 🗄️ Data Engineering |
-| 📊 BI & Analytics | ☁️ Cloud Engineering | ⚙️ Microsoft Power Platform |
-| 💻 Custom Software Solutions | 👨‍💻 Team Augmentation | 🎨 UI/UX Design |
-| 🧪 QA & Testing | | |
+<table>
+  <tr>
+    <td>🚀 MVP Development</td>
+    <td>🤖 AI / ML & RPA</td>
+    <td>🗄️ Data Engineering</td>
+  </tr>
+  <tr>
+    <td>📊 BI & Analytics</td>
+    <td>☁️ Cloud Engineering</td>
+    <td>⚙️ Microsoft Power Platform</td>
+  </tr>
+  <tr>
+    <td>💻 Custom Software Solutions</td>
+    <td>👨‍💻 Team Augmentation</td>
+    <td>🎨 UI/UX Design</td>
+  </tr>
+  <tr>
+    <td>🧪 QA & Testing</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 
