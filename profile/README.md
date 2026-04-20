@@ -276,8 +276,11 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 **Tech Stack:**
 `.NET` `Microsoft SQL Server` `ASP.NET` `Oracle` `Kendo UI`
 
+<<<<<<< HEAD
 </details>
 
+=======
+>>>>>>> 788d69850010c36d828f16013636cfa1b52329a8
 ---
 
 ## 📬 CONTACT DETAILS
