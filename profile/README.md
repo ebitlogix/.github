@@ -297,7 +297,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
 
 [LinkedIn](https://www.linkedin.com/company/bitogix) •
 [Instagram](https://www.instagram.com/ebitlogix) •
-[Facebook](https://www.facebook.com/ebitlogix) •
+[Facebook](https://www.facebook.com/ebitlogix)
 
 </div>
 
