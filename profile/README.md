@@ -33,7 +33,7 @@ At **BITLOGIX**, We build scalable, secure, and production-ready technology prod
     <td>🗄️ Data Engineering</td>
   </tr>
   <tr>
-    <td>📊 Power BI & Analytics</td>
+    <td>📊 BI & Analytics</td>
     <td>☁️ Cloud Engineering</td>
     <td>⚙️ Microsoft Power Platform</td>
   </tr>
